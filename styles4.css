@@ -1,0 +1,50 @@
+.main{
+/*Text-align: center;*/
+}
+
+.logo-img{
+margin-top: 150px;
+display: block;
+width: 30%;
+Margin-bottom: 10px;
+Margin-left: auto;
+Margin-right: auto;
+}
+
+.textbox{
+display: block;
+width: 500px;
+Margin-left: auto;
+Margin-right: auto;
+Padding-top: 10px;
+Padding-bottom: 10px;
+Padding-left: 30px;
+Padding-right: 30px;
+Border: 1px solid #dfe1e5;
+Border-radius: 24px;
+Height: 40px;
+}
+
+.btn{
+Margin-top: 30px;
+/*Display: block;
+Margin-left: auto;
+Margin-right: auto;*/
+
+Padding-top: 7px;
+Padding-bottom: 7px;
+Padding-left: 15px;
+Padding-right: 15px;
+Background: #dfe1e5;
+Border: 3px solid #dfe1e5;
+Border-radius: 5px;
+Font-size: 14px;
+
+Margin-left: 5px;
+Margin-right: 5px;
+}
+
+.btn-wrapper{
+Display: flex;
+Justify-content: center;
+}
